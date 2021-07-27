@@ -15,7 +15,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 @NgModule({
   declarations: [
     AppComponent,
-    UserDataComponent
+    UserDataComponent,
     SearchBarComponent,
     NotFoundComponent,
     UserRepoComponent,
