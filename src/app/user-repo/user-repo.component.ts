@@ -16,12 +16,12 @@ export class UserRepoComponent implements OnInit {
   getRepo(searchTerm: string) {
     this.repoService.getRepo(searchTerm).subscribe(data => {
       this.repo = data;
-      console.log(this.repo);
+      console.log(this.repo)
     })
   }
 
   ngOnInit(): void {
-    this.getRepo('caseymusila')
+    this.getRepo('caseymusila');
   }
 
 }
