@@ -1,8 +1,8 @@
 # Github
 
-#### A web App where you search a Github user and it displays his/her profile account and repositories, 5th of Feb 2021
+#### A web App where you search a Github user and it displays his/her profile account and repositories, 25th of July 2021
 
-#### By **Jefferson Gakuya**
+#### By **Casey Kyalo**
 
 ## Description
 
@@ -18,7 +18,7 @@ A website where users may enter a GitHub username into a form, submit it, and se
 - AngularCli
   The website to run needs only a web browser need of a server.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
 ## Known Bugs
 
@@ -50,12 +50,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Support and contact details
 
-JeffDev GitHub Acc: https://github.com/NgatiaJeffers
-JeffDev Email: jeffersongakuya@gmail.com
+JeffDev GitHub Acc: https://github.com/caseymusila
+JeffDev Email: musilacasey@gmail.com
 
 ### License
 
 No Licence issued. modify it at your own cost
-Copyright (c) 2020 **Github App**
+Copyright (c) 2021 **Github App**
 
-Licensed under the [JeffDev License](LICENSE).
+
