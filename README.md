@@ -50,8 +50,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Support and contact details
 
-JeffDev GitHub Acc: https://github.com/caseymusila
-JeffDev Email: musilacasey@gmail.com
+ GitHub Acc: https://github.com/caseymusila
+ Email: musilacasey@gmail.com
 
 ### License
 
