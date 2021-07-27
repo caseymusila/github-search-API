@@ -55,7 +55,6 @@ JeffDev Email: musilacasey@gmail.com
 
 ### License
 
-No Licence issued. modify it at your own cost
-Copyright (c) 2021 **Github App**
+Copyright (c) 2021 
 
 
