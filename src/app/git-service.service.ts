@@ -33,7 +33,7 @@ export class GitServiceService {
 
         resolve();
       }, (err) => {
-        reject()
+        reject();
       }
       )
     })
