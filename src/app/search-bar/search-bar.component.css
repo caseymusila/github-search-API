@@ -12,7 +12,7 @@ input {
 }
 
 input::placeholder {
-    color:  #2F3020
+    color:  #2F3020;
 }
 
 input:focus {
